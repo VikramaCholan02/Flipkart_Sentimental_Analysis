@@ -7,7 +7,7 @@ This project involves sentiment analysis on product reviews scraped from Flipkar
 
 ## Dataset
 
-- The dataset consists of the following columns:
+The dataset consists of the following columns:
 
 - rating: Rating given by the customer (1-5).
 
