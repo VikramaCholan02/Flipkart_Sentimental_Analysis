@@ -7,43 +7,43 @@ This project involves sentiment analysis on product reviews scraped from Flipkar
 
 ## Dataset
 
-• The dataset consists of the following columns:
+- The dataset consists of the following columns:
 
-• rating: Rating given by the customer (1-5).
+- rating: Rating given by the customer (1-5).
 
-• review_summary: Summary of the customer review.
+- review_summary: Summary of the customer review.
 
-• review_description: Detailed description of the customer review.
+- review_description: Detailed description of the customer review.
 
-• product_name: Name of the product being reviewed.
+- product_name: Name of the product being reviewed.
 
-• Price: Price of the product.
+- Price: Price of the product.
 
-• product_id: Unique identifier for each product.
+- product_id: Unique identifier for each product.
 
-• compound: Compound sentiment score from Vader Sentiment.
+- compound: Compound sentiment score from Vader Sentiment.
 
-• compound_sentiment: Sentiment classification based on compound score.
+- compound_sentiment: Sentiment classification based on compound score.
 
-• rating_sentiment: Sentiment based on rating (Positive, Negative, or Neutral).
+- rating_sentiment: Sentiment based on rating (Positive, Negative, or Neutral).
 
-• Sentiment: Sentiment from TextBlob (Positive, Negative, or Neutral).
+- Sentiment: Sentiment from TextBlob (Positive, Negative, or Neutral).
 
-• Polarity: Polarity score from TextBlob.
+- Polarity: Polarity score from TextBlob.
 
-• TextBlob_Sentiment: Sentiment classification from TextBlob.
+- TextBlob_Sentiment: Sentiment classification from TextBlob.
 
 
 ## Requirements
 
-• pandas
+- pandas
 
-• matplotlib
+- matplotlib
 
-• seaborn
+- seaborn
 
-• textblob
+- textblob
 
-• nltk
+- nltk
 
-• wordcloud
+- wordcloud
